@@ -5,7 +5,7 @@
 # ` 👾 About`
 HueBot public main repository.
 Bot is written in .net core and you can check list of features/commands at current website for project [here](https://huebyte.github.io/Bot).
-I decided to make it open source as I probably won't continue developing this bot anymore. I think it was an interesting project and with gained experience I will make another bot.
+I decided to make it open source as I probably won't continue developing this bot anymore. I think it was an interesting project and with gained experience I will make another bot. Currently running it on raspberry pi 3b+ with MySQL which also resulted in abandoning music part of the bot so you can consider *Audio* as outdated!
 
 ## ` 🤴🏽 Contributors` 
 - [HueByte](https://github.com/HueByte/) ( @Hu̾e̾#3539 )
