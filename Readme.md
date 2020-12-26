@@ -4,8 +4,8 @@
 
 # ` 👾 About`
 HueBot public main repository.
-Bot is written in .net core and you can check list of features/commands at current website for project: [link](https://huebyte.github.io/Bot).
-Decided to make it open source as I probably won't continue developing this bot anymore. I think it was an interesting project and with gained experience I will make another bot.
+Bot is written in .net core and you can check list of features/commands at current website for project [here](https://huebyte.github.io/Bot).
+I decided to make it open source as I probably won't continue developing this bot anymore. I think it was an interesting project and with gained experience I will make another bot.
 
 ## ` 🤴🏽 Contributors` 
 - [HueByte](https://github.com/HueByte/) ( @Hu̾e̾#3539 )
