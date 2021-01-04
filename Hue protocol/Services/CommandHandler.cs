@@ -75,7 +75,7 @@ namespace HueProtocol.Services
             };
 
             //if doesn't exist
-            if (exists)
+            if (!exists)
                 _db.ServersSettings.Add(newServer);
 
             //if exist in database but bot wasn't there
