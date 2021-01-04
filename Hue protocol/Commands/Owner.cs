@@ -120,7 +120,7 @@ namespace HueProtocol.Commands
                 Directory.CreateDirectory($"{Directory.GetCurrentDirectory()}/commands");
             File.WriteAllText($"{Environment.CurrentDirectory}/Commands/commands.html", toSave);
 
-            await ReplyAsync("Done <:11:702505653675229256>");
+            await ReplyAsync("Done");
         }
 
         [Command("RemoveUser", RunMode = RunMode.Async)]
