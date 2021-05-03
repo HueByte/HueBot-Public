@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://huebyte.github.io/Bot" target="_blank"><img src="https://cf.shopee.vn/file/9c9270cffd50f643a176389933d3dbfa" width="400" height="400" title="HueBotProfilePic"></a>
+  <a href="https://huebyte.github.io/Bot" target="_blank"><img src="https://i.pinimg.com/originals/0c/67/5a/0c675a8e1061478d2b7b21b330093444.gif" width="400" height="400" title="HueBotProfilePic"></a>
 </p>
 
 # ` 👾 About`
